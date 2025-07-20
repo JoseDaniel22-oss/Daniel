@@ -1,7 +1,7 @@
 
 # Jose Daniel Gonzalez – IT e‑Portfolio
 
-![Profile Photo](![WhatsApp Image 2025-07-19 at 17 53 48_78ad6892](https://github.com/user-attachments/assets/98177a8f-ba3f-44b6-82e0-096e7996ac86))
+(![Profile Photo](![WhatsApp Image 2025-07-19 at 17 53 48_78ad6892](https://github.com/user-attachments/assets/98177a8f-ba3f-44b6-82e0-096e7996ac86))
 
 
 ## About Me  
@@ -24,4 +24,4 @@ Designed and implemented a MySQL database and Java front‑end to track inventor
 ## Contact  
 - **Email:** jdglez333@gmail.com  
 - **GitHub:** https://github.com/JoseDaniel22-oss  
-- **LinkedIn:** https://linkedin.com/in/josedgonzalez
+- **LinkedIn:** linkedin.com/in/josedgonzalez 
