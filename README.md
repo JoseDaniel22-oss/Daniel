@@ -1,11 +1,11 @@
 
 # Jose Daniel Gonzalez – IT e‑Portfolio
 
-(![Profile Photo](![WhatsApp Image 2025-07-19 at 17 53 48_78ad6892](https://github.com/user-attachments/assets/98177a8f-ba3f-44b6-82e0-096e7996ac86))
+![Profile Photo](https://github.com/user-attachments/assets/98177a8f-ba3f-44b6-82e0-096e7996ac86)
 
 
 ## About Me  
-Hello! I’m Jose Daniel Gonzalez, a Computer Science student at Ivy Tech CC graduating summer 2025. I have back‑end development experience in Java, Python, and C++, and I thrive on learning new technologies, collaborating with teammates, and solving tough problems. I’m actively seeking entry‑level roles or internships where I can apply agile methodologies and continue building my AWS expertise.
+Hi! My name is Jose Daniel Gonzalez. I am a computer science student at Ivy Tech, and I will graduate this summer. I have experience in back-end development using Java, Python, and C++. I enjoy learning new things, working hard, and helping my team solve problems. I’m excited to keep growing and help build things that make a difference I’m actively seeking entry‑level roles or internships where I can apply agile methodologies and continue building my AWS expertise.
 
 ## Education  
 - **A.A.S. in Computer Science**, Ivy Tech Community College (Expected Summer 2025)  
