@@ -24,4 +24,4 @@ Designed and implemented a MySQL database and Java front‑end to track inventor
 ## Contact  
 - **Email:** jdglez333@gmail.com  
 - **GitHub:** https://github.com/JoseDaniel22-oss  
-- **LinkedIn:** linkedin.com/in/josedgonzalez 
+- **LinkedIn:** linkedin.com/in/josedgonzalez  
