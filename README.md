@@ -1,7 +1,7 @@
 
 # Jose Daniel Gonzalez – IT e‑Portfolio
 
-![Profile Photo](https://github.com/user-attachments/assets/98177a8f-ba3f-44b6-82e0-096e7996ac86)
+
 
 
 ## About Me  
